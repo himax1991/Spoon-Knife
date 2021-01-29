@@ -1,4 +1,4 @@
-### Well hello there!
+### Well hello there! My name is Max and I going to study git.
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
